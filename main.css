@@ -46,7 +46,7 @@ body {
   .parallax h4,
   .parallax h5,
   .parallax h6 {
-    color: #171515;
+    color: #000000;
   }
   
   .parallax input[type="text"],
@@ -60,7 +60,7 @@ body {
   .parallax textarea,
   .parallax textarea:hover {
     font-weight: 300;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   
   .btn {
