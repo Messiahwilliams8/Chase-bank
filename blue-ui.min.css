@@ -3296,8 +3296,6 @@ label.validation-error {
     visibility: hidden!important
 }
 
-.util.clearfix,.util.container,.util.container-fluid,.util.row {
-    *zoom:1}
 
 .util.clearfix:before,.util.clearfix:after,.util.container:before,.util.container:after,.util.container-fluid:before,.util.container-fluid:after,.util.row:before,.util.row:after {
     content: "";
